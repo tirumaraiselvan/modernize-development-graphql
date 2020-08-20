@@ -118,4 +118,10 @@ Hasura can use user attributes and data attributes
 
 ## Actions (Bring your REST APIs)
 
+1. How to define your own types and fields
+2. How to resolve the field with a REST API
+
 ## Remote Schema (Bring your GraphQL APIs)
+
+1. How to bring another GraphQL API
+2. How to create relationships across them (Remote Joins!)
